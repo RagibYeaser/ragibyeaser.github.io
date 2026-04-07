@@ -1,4 +1,4 @@
-# 👨‍💻 MD. RAGIB YEASER  
+# MD. RAGIB YEASER  
 ### Aspiring SQA Engineer | Software Quality Assurance Enthusiast  
 
 📍 Dhaka, Bangladesh  
