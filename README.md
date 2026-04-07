@@ -1,5 +1,4 @@
-# MD. RAGIB YEASER  
-### Aspiring SQA Engineer | Software Quality Assurance Enthusiast  
+### SDET | Ensuring software excellence | API & Performance Testing | Postman | JMeter | On the path to Automation (Selenium) 
 
 📍 Dhaka, Bangladesh  
 📧 ragibyeaser181@gmail.com  
