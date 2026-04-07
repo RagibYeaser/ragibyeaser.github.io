@@ -3,11 +3,11 @@
 
 ## Education
 - BSc in Computer Science & Engineering | United International University (UIU) (_2024_)
-- HSC | Cantonment Public School & College (_2017_)
-- SSC | Cantonment Public School & College (_2015_)
+- HSC | Cantonment Public School & College, BUSMS (_2017_)
+- SSC | Cantonment Public School & College, BUSMS (_2015_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Radiant Data Systems Ltd. (_June 2025 - Feb 2026_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
