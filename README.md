@@ -1,5 +1,6 @@
 # Software QA Engineer
 #### Technical Skills: Manual Testing, API Testing, Postman, JMeter, Selenium (on going), Java, Python, SQL, JIRA, Git, MySQL
+#### Soft Skills: Analytical Thinking, Attention to Detail, Problem Solving, Communication Skills, Team Collaboration, Time Management, Adaptability, Critical Thinking
 
 ## Education
 - BSc in Computer Science & Engineering | United International University (UIU) (_2024_)
@@ -19,7 +20,7 @@
 - Automation Testing (in progress)
 
   
-## Work Experience
+# Work Experience
 **Radiant Data Systems Ltd. (_June 2025 - Feb 2026_)**
 - Verified and validated large volumes of data for accuracy and consistency  
 - Performed detailed data quality checks to identify errors  
@@ -30,7 +31,7 @@
 - Ensured data confidentiality and integrity  
 
 
-### IT Executive  
+# IT Executive  
 **Partschai BD** *(4+ Months)*  
 - Supported IT operations and system monitoring  
 - Maintained data accuracy and reporting  
