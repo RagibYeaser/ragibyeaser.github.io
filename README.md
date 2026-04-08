@@ -54,3 +54,12 @@ A comprehensive API testing project focused on validating RESTful APIs using Pos
 - Validated request/response structures and status codes  
 
 ![Report](/assets/img/report.png)
+🔗 https://github.com/RagibYeaser/NewmanReportPractice01-Dmoney  
+
+---
+
+## 📫 Contact
+📞 Phone: +880 1716337123
+📧 ragibyeaser181@gmail.com  
+🔗 [LinkedIn](http://www.linkedin.com/in/ragibyeaser)  
+💻 [GitHub](https://github.com/RagibYeaser)
