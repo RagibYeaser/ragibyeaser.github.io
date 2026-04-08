@@ -1,9 +1,15 @@
 # Software QA Engineer
 #### Technical Skills: Manual Testing, API Testing, Postman, JMeter, Selenium (on going), Java, Python, SQL, JIRA, Git, MySQL
 
-#Professional Training  
+## Education
+- BSc in Computer Science & Engineering | United International University (UIU) (_2024_)
+- HSC | Cantonment Public School & College, BUSMS (_2017_)
+- SSC | Cantonment Public School & College, BUSMS (_2015_)
 
-###SQA: Manual & Automation Testing – OSTAD (Batch 18) (_February 2024_)  
+
+# Professional Training  
+
+### SQA: Manual & Automation Testing – OSTAD (Batch 18) (_February 2024_)  
 - Test Case Writing  
 - Bug Reporting  
 - Manual Testing  
@@ -12,17 +18,25 @@
 - JMeter  
 - Automation Testing (in progress)
 
-
-## Education
-- BSc in Computer Science & Engineering | United International University (UIU) (_2024_)
-- HSC | Cantonment Public School & College, BUSMS (_2017_)
-- SSC | Cantonment Public School & College, BUSMS (_2015_)
-
+  
 ## Work Experience
 **Radiant Data Systems Ltd. (_June 2025 - Feb 2026_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Verified and validated large volumes of data for accuracy and consistency  
+- Performed detailed data quality checks to identify errors  
+- Reviewed system outputs against business rules  
+- Documented and tracked data inconsistencies  
+- Conducted regression checks after fixes  
+- Maintained reports and quality documentation  
+- Ensured data confidentiality and integrity  
 
+
+### IT Executive  
+**Partschai BD** *(4+ Months)*  
+- Supported IT operations and system monitoring  
+- Maintained data accuracy and reporting  
+- Collaborated with team members for smooth operations
+
+- 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
