@@ -1,6 +1,18 @@
 # Software QA Engineer
 #### Technical Skills: Manual Testing, API Testing, Postman, JMeter, Selenium (on going), Java, Python, SQL, JIRA, Git, MySQL
 
+#Professional Training  
+
+###SQA: Manual & Automation Testing – OSTAD (Batch 18) (_February 2024_)  
+- Test Case Writing  
+- Bug Reporting  
+- Manual Testing  
+- API Testing  
+- Database Testing  
+- JMeter  
+- Automation Testing (in progress)
+
+
 ## Education
 - BSc in Computer Science & Engineering | United International University (UIU) (_2024_)
 - HSC | Cantonment Public School & College, BUSMS (_2017_)
