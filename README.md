@@ -32,8 +32,8 @@ Soft Skills: Analytical Thinking, Attention to Detail, Problem Solving, Communic
 - Maintained reports and quality documentation  
 - Ensured data confidentiality and integrity  
 
-### Partschai BD *(8+ Months)*  
-***IT Executive***
+### Partschai BD (8+ Months)  
+**IT Executive**
 - Supported IT operations and system monitoring  
 - Maintained data accuracy and reporting  
 - Collaborated with team members for smooth operations
