@@ -1,12 +1,13 @@
 # Software QA Engineer
 #### Technical Skills: Manual Testing, API Testing, Postman, JMeter, Selenium (on going), Java, Python, SQL, JIRA, Git, MySQL
-**Soft Skills: Analytical Thinking, Attention to Detail, Problem Solving, Communication Skills, Team Collaboration, Time Management, Adaptability, Critical Thinking**
+Soft Skills: Analytical Thinking, Attention to Detail, Problem Solving, Communication Skills, Team Collaboration, Time Management, Adaptability, Critical Thinking
 
 ## Education
 - BSc in Computer Science & Engineering | United International University (UIU) (_2024_)
 - HSC | Cantonment Public School & College, BUSMS (_2017_)
 - SSC | Cantonment Public School & College, BUSMS (_2015_)
 
+---
 
 # Professional Training  
 ### SQA: Manual & Automation Testing – OSTAD (Batch 18) (_February 2026_)  
@@ -18,7 +19,7 @@
 - JMeter  
 - Automation Testing (in progress)
 
-  
+--- 
 # Work Experience
 ### Radiant Data Systems Ltd. (_June 2025 - Feb 2026_)
 **Verification Specialist**
@@ -30,13 +31,14 @@
 - Maintained reports and quality documentation  
 - Ensured data confidentiality and integrity  
 
-
+---
 ### Partschai BD *(8+ Months)*  
-**IT Executive** 
+***IT Executive***
 - Supported IT operations and system monitoring  
 - Maintained data accuracy and reporting  
 - Collaborated with team members for smooth operations
 
+---
 ## Projects
 ### Dmoney API Testing Project
 A comprehensive API testing project focused on validating RESTful APIs using Postman and generating automated reports with Newman.
