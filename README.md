@@ -21,7 +21,9 @@
 
   
 # Work Experience
+
 **Radiant Data Systems Ltd. (_June 2025 - Feb 2026_)**
+### IT Executive  
 - Verified and validated large volumes of data for accuracy and consistency  
 - Performed detailed data quality checks to identify errors  
 - Reviewed system outputs against business rules  
@@ -31,8 +33,8 @@
 - Ensured data confidentiality and integrity  
 
 
-# IT Executive  
 **Partschai BD** *(4+ Months)*  
+### IT Executive  
 - Supported IT operations and system monitoring  
 - Maintained data accuracy and reporting  
 - Collaborated with team members for smooth operations
