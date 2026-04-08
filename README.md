@@ -22,8 +22,8 @@
   
 # Work Experience
 
-**Radiant Data Systems Ltd. (_June 2025 - Feb 2026_)**
-### IT Executive  
+### Radiant Data Systems Ltd. (_June 2025 - Feb 2026_)
+** Verification Specialist **
 - Verified and validated large volumes of data for accuracy and consistency  
 - Performed detailed data quality checks to identify errors  
 - Reviewed system outputs against business rules  
@@ -33,8 +33,8 @@
 - Ensured data confidentiality and integrity  
 
 
-**Partschai BD** *(4+ Months)*  
-### IT Executive  
+### Partschai BD *(8+ Months)*  
+** IT Executive ** 
 - Supported IT operations and system monitoring  
 - Maintained data accuracy and reporting  
 - Collaborated with team members for smooth operations
