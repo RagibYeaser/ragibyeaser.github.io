@@ -9,7 +9,7 @@ Soft Skills: Analytical Thinking, Attention to Detail, Problem Solving, Communic
 
 ---
 
-# Professional Training  
+## Professional Training  
 ### SQA: Manual & Automation Testing – OSTAD (Batch 18) (_February 2026_)  
 - Test Case Writing  
 - Bug Reporting  
@@ -20,7 +20,8 @@ Soft Skills: Analytical Thinking, Attention to Detail, Problem Solving, Communic
 - Automation Testing (in progress)
 
 --- 
-# Work Experience
+
+## Work Experience
 ### Radiant Data Systems Ltd. (_June 2025 - Feb 2026_)
 **Verification Specialist**
 - Verified and validated large volumes of data for accuracy and consistency  
@@ -31,7 +32,6 @@ Soft Skills: Analytical Thinking, Attention to Detail, Problem Solving, Communic
 - Maintained reports and quality documentation  
 - Ensured data confidentiality and integrity  
 
----
 ### Partschai BD *(8+ Months)*  
 ***IT Executive***
 - Supported IT operations and system monitoring  
